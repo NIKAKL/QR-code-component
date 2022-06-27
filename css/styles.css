@@ -1,0 +1,31 @@
+body{
+    background-color: #D6E2F0;
+    text-align: center;
+    margin: 10% 40% 0 40%;
+}
+p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+}
+.bold{
+    font-weight: 700;
+    font-size: 18px;
+    color: 	#1F3251;
+}
+.light{
+    color: #505255;
+}
+.box-one{
+    background-color: white;
+    padding: 20px;
+    width: 250px;
+    border-radius: 8px;
+}
+.qr-code{
+    border-radius: 8px;
+}
+footer{
+    margin-top: 20%;
+    margin-bottom: 0;
+}
